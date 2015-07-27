@@ -1,0 +1,2 @@
+# amrita
+Amrita Training Repository
